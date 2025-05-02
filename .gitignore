@@ -1,0 +1,59 @@
+# Archivos generados por Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos temporales de Jupyter
+*.tmp
+*.temp
+
+# Archivos de configuración local de Jupyter
+.jupyter/
+.jupyter/lab/workspaces/
+
+# Datos y caché
+*.pickle
+*.pkl
+*.data
+*.feather
+*.parquet
+*.hdf5
+*.h5
+#*.csv
+*.tsv
+#*.xlsx
+*.db
+*.sqlite
+
+# Archivos de entorno y configuración
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de instalación y distribución
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+*.exe
